@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/formAuth/static/css/main.49f8ebf0.css",
-    "main.js": "/formAuth/static/js/main.8e720dfd.js",
+    "main.js": "/formAuth/static/js/main.ac46a136.js",
     "index.html": "/formAuth/index.html",
     "main.49f8ebf0.css.map": "/formAuth/static/css/main.49f8ebf0.css.map",
-    "main.8e720dfd.js.map": "/formAuth/static/js/main.8e720dfd.js.map"
+    "main.ac46a136.js.map": "/formAuth/static/js/main.ac46a136.js.map"
   },
   "entrypoints": [
     "static/css/main.49f8ebf0.css",
-    "static/js/main.8e720dfd.js"
+    "static/js/main.ac46a136.js"
   ]
 }

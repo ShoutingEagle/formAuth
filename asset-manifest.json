@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formAuth/static/css/main.e60a8b63.css",
+    "main.js": "/formAuth/static/js/main.c4985d12.js",
+    "index.html": "/formAuth/index.html",
+    "main.e60a8b63.css.map": "/formAuth/static/css/main.e60a8b63.css.map",
+    "main.c4985d12.js.map": "/formAuth/static/js/main.c4985d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60a8b63.css",
+    "static/js/main.c4985d12.js"
+  ]
+}
